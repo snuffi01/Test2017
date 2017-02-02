@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         //Laget if
         // nisses tuggummifabrik
         
-        UILabel_top.text = "IF Elfsborg"
+        UILabel_top.text = "IF Elfsborg enna"
     }
     @IBAction func Knapp2ButtonTapped(_ sender: Any) {
         UILabel_top.text = "Buttons are cool!"
